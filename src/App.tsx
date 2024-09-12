@@ -3,7 +3,7 @@ import QRCode from 'react-qr-code';
 
 const App: React.FC = () => {
   const urls = [
-    'https://www.macfit.com/d/member/grupders/1846285',
+    'https://www.macfit.com/d/member/grupders/22613',
     'https://www.macfit.com/d/member/grupders',
     'https://www.macfit.com/d/member/workout/280',
     'https://www.macfit.com/d/member/workout',
