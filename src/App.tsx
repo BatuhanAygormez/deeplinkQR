@@ -33,7 +33,9 @@ const App: React.FC = () => {
     'https://www.macfit.com/d/member/workouttab',
     'https://www.macfit.com/d/member/measurements',
     'https://www.macfit.com/d/member/yourprogram',
-    'https://www.macfit.com/d/member/gpsworkout'
+    'https://www.macfit.com/d/member/gpsworkout',
+    'https://www.macfit.com/d/clubrating/17.12.2024/365 ',
+    'https://www.macfit.com/d/trainerrating/17.12.2024/365 '
     
   ];
 
