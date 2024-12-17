@@ -33,7 +33,9 @@ const App: React.FC = () => {
     'https://www.macfit.com/d/member/badges',
     'https://www.macfit.com/d/member/workouttab',
     'https://www.macfit.com/d/member/measurements',
-    'https://www.macfit.com/d/member/yourprogram'
+    'https://www.macfit.com/d/member/yourprogram',
+    'https://www.macfit.com/d/member/gpsworkout'
+    
   ];
 
   const [selectedUrl, setSelectedUrl] = useState<string | null>(null);
